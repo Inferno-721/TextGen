@@ -19,13 +19,13 @@ This project demonstrates the features of a mobile application (e.g., **Red Bus*
 ## Project Structure
 
 ```
-- client/               # React frontend![Screenshot_20240908_113123](https://github.com/user-attachments/assets/09ea37ab-8b64-43b3-a520-aa03a30d302c)
+- Frontend              # React frontend![Screenshot_20240908_113123](https://github.com/user-attachments/assets/09ea37ab-8b64-43b3-a520-aa03a30d302c)
 
     ├── components/     # React components (UploadSection, OutputSection, Modal)
     └── App.jsx         # Main application component
-- server/               # Node.js backend
-    └── index.js        # Server code with Google Gemini API integration
-- uploads/              # Stores uploaded screenshots
+    └──uploads/         # Stores uploaded screenshots
+- Backend               # Node.js backend
+    └── index.js        # Code with Google Gemini API integration
 - README.md             # Project documentation
 ```
 
@@ -69,5 +69,11 @@ In cases where multiple images are uploaded, each prompt is generated in sequenc
 
 
 ![Screenshot_20240908_114804](https://github.com/user-attachments/assets/2e930eae-0313-4599-8e6e-4097a2d1c3fd)
+
+
+![Screenshot_20240908_182725](https://github.com/user-attachments/assets/e6ebb72b-ad43-44fa-8834-f63cd55a2acd)
+
+
+![Screenshot_20240908_182749](https://github.com/user-attachments/assets/5f5113e1-22ab-49bf-95b0-bf6e8f7a3cb0)
 
 
