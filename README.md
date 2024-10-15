@@ -1,4 +1,4 @@
-## Myracle Intern Assignment Project
+
 
 # Multimodal Testing Instruction Generator
 
